@@ -1,0 +1,113 @@
+.
+|____.ebextensions
+| |____.elasticbeanstalk
+| |____.gitignore
+| |____djangoapp.config
+|____.elasticbeanstalk
+| |____config
+| |____optionsettings.awstest-env
+|____.git
+| |____AWSDevTools
+| | |____aws
+| | | |____dev_tools.rb
+| | | |____elastic_beanstalk_config.rb
+| | | |____ini.rb
+| | |____aws.elasticbeanstalk.config
+| | |____aws.elasticbeanstalk.push
+| |____branches
+| |____COMMIT_EDITMSG
+| |____config
+| |____description
+| |____HEAD
+| |____hooks
+| | |____applypatch-msg.sample
+| | |____commit-msg.sample
+| | |____post-commit.sample
+| | |____post-receive.sample
+| | |____post-update.sample
+| | |____pre-applypatch.sample
+| | |____pre-commit.sample
+| | |____pre-rebase.sample
+| | |____prepare-commit-msg.sample
+| | |____update.sample
+| |____index
+| |____info
+| | |____exclude
+| |____logs
+| | |____HEAD
+| | |____refs
+| | | |____heads
+| | | | |____master
+| |____objects
+| | |____03
+| | | |____e2e6a67650efc73fcbc11659fc6025566741e5
+| | |____24
+| | | |____0197b696fa29cce726e8dc34540d297da33719
+| | |____27
+| | | |____1315ddff029501a4dead299d17671a98a5c7cf
+| | |____36
+| | | |____21d1816bd6b9791261d34d42c7352beda1a23c
+| | |____41
+| | | |____65004fcc79f4bc51fe74cb144c72d800232efe
+| | |____4b
+| | | |____a240e080b5ed420fcbe02648b5b33488ca5f8f
+| | |____5c
+| | | |____ba17c88fbb0bede233378051b8ee95e3d5c84a
+| | |____64
+| | | |____cfb57365efe8715b166bae74171043d88df605
+| | |____6b
+| | | |____070e96bc1cada56ef6db64c780dd949d1cf786
+| | |____70
+| | | |____f0beefb1721177dfd272701788602c9652ee35
+| | |____76
+| | | |____d567b4265e3bbe88c213486f0d3a3d9fbe47bb
+| | |____82
+| | | |____59113138ac50bdf5cdce14075724f990fbd041
+| | |____8b
+| | | |____bd6bb0e83ac51795d9b40fd8a5ec5ab22c65ef
+| | |____93
+| | | |____4ad7f6cce245706149deb2e53ade7e75c3b637
+| | |____9a
+| | | |____cacc543faea9ad27418d6d2fe01a2f18999527
+| | |____a5
+| | | |____18af7d97a624859dfa5e578e2a53f75285cba2
+| | |____a9
+| | | |____13d513fe83487ce404a86927d3d9c887c74783
+| | |____aa
+| | | |____d56739a3319b40b0f88b3ea4c0f96ef212be27
+| | |____ae
+| | | |____7302c4d8b9913b45b91b6f5822e6d26985249a
+| | |____c9
+| | | |____603b5dd296606c82da760b29ef8ba01e6036cd
+| | |____d1
+| | | |____4b0df6caeaab64f37f6a21f1e7be6dd63f6dcc
+| | |____e1
+| | | |____7e861e0744fb77d9280d9129c7ba5acbaa6325
+| | |____e6
+| | | |____1fb7324f97b7e720306ad7fa391f6c956d6fb7
+| | | |____9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+| | |____ef
+| | | |____9ee971e00d50852d2c65244db7f0e6eeb7ca3d
+| | | |____a8724a99bfe1729cc1ab39b4bb76cd1cab805b
+| | |____f3
+| | | |____58d16ebe0ad430566a76e9e514cc05a02cf86b
+| | |____fe
+| | | |____80f1434c2c03401640526e4132403093ecde06
+| | |____info
+| | |____pack
+| |____refs
+| | |____heads
+| | | |____master
+| | |____tags
+|____.gitignore
+|____awstest
+| |______init__.py
+| |______init__.pyc
+| |____settings.py
+| |____settings.pyc
+| |____urls.py
+| |____wsgi.py
+| |____wsgi.pyc
+|____manage.py
+|____requirements.txt
+|____textfile.txt
